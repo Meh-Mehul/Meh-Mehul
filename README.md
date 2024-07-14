@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Meh-Mehul living in HP, India
 - 👀 I’m interested in most of Computer and robotics related stuff,
 - 🌱 I’m currently looking into website development and management and also robotics
--  I'm Currently a freshman at IIT Mandi.
+-  I'm Currently a sophomore at IIT Mandi.
 
 
 <!---
